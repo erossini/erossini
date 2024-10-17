@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 Transforming businesses with bespoke cloud-based software. Enhance efficiency, boost productivity, and achieve competitive advantage. Partner with me for exceptional results.
+
 Skills: C# · ASP.NET · ASP.NET Core · ASP.NET Web API · Active Server Pages (ASP) · .NET MAUI · Blazor · Azure DevOps · Microsoft Azure · Azure SQL · Azure Functions
 
 ### Links 
