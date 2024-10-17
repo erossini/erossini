@@ -9,6 +9,7 @@ Skills: C# · ASP.NET · ASP.NET Core · ASP.NET Web API · Active Server Pages 
 - [PureSourceCode.com](https://puresourcecode.com/)
 - [LinkedIn](https://www.linkedin.com/in/rossiniuk/)
 - [Language In Use](https://languageinuse.com/)
+- [Nexty Solution](https://nexty.solutions/)
 
 <!--
 **erossini/erossini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
