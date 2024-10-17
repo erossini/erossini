@@ -8,6 +8,12 @@ I excel in CI/CD with Azure pipelines, test automation, and Agile methodologies,
 
 Passionate about enhancing productivity, ensuring code quality, and accelerating project delivery, I am dedicated to leveraging Agile and DevOps practices to achieve outstanding results. Let's connect to explore how my skills and experiences can contribute to your organization's success.
 
+### Links 
+
+- [PureSourceCode.com](https://puresourcecode.com/)
+- [LinkedIn](https://www.linkedin.com/in/rossiniuk/)
+- [Language In Use](https://languageinuse.com/)
+
 <!--
 **erossini/erossini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
